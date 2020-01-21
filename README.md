@@ -1,6 +1,6 @@
 # h5Viewer
 
-This is a repository that contains code written in python to view and save compressed images in .h5 or .hdf5 format. An h5 file is a data file saved in the Hierarchical Data Format (HDF) designed to store and organize large amounts of data.
+This is a repository that contains code written in python to view and save compressed images in .h5 or .hdf5 format. An .h5 file is a data file saved in the Hierarchical Data Format (HDF) designed to store and organize large amounts of data.
 
 ## Prerequisites
   * Python 3
